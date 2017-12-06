@@ -31,6 +31,7 @@ group :development, :test do
   gem "better_errors"
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
   gem "database_cleaner"
+  gem "dotenv-rails"
   gem "factory_girl_rails"
   gem "faker"
   gem "pry-rails"
